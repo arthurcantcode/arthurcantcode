@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @arthurcantcode
-- 👀 I’m interested in learning how to code Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me Python 
-
-<!---
-arthurcantcode/arthurcantcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @arthurcantcode, first name's Arthur, as you might have already guessed. I'm an Engineering and Management student, currently on the last year before getting my degree. I've also dived into Computer Engineering, for a year (C# got me runnin' lol), later I got into Telecommunications Engineering for three years in a public university, all of that back in my native country, Brazil. As of September 2018 I'm living and studying in Portugal. 
+I've decided try and learn programming (again), mainly how to code in Python, for it's readability and versatility. I'm a total newbie at this point (October 2021) but I'm looking forward to improve my skills and coding logic as much as I can. 
+- You can reach me @ arthurmartinsholanda@gmail.com !
