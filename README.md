@@ -1,3 +1,12 @@
-- 👋  Hi, I’m @arthurcantcode, first name's Arthur, as you might have already guessed. I'm an Engineering and Industrial Management student, currently on the last year before getting my degree. I've also dived into Computer Engineering, for a year (C# got me runnin' lol), later I got into Telecommunications Engineering for three years in a public university, all of that back in my native country, Brazil. As of September 2018 I'm living and studying in Portugal. 
-I've decided try and learn programming (again), mainly how to code in Python, for it's readability and versatility. I'm a total newbie at this point (October 2021) but I'm looking forward to improve my skills and coding logic as much as I can. 
-- You can reach me @ arthurmartinsholanda@gmail.com !
+- 👋  Hi, I’m @arthurcantcode, first name's Arthur, as you might have already guessed. I’m an Engineering & Industrial Management graduate based in Portugal, with an academic background spanning Computer Engineering and Telecommunications Engineering.
+
+I’m currently building skills for data-driven roles, focusing on:
+
+-Microsoft Excel for financial analysis, reporting, and reconciliations.
+-Python for analysis and automation.
+-PostgreSQL for data querying and data usage.
+-Applying data and logic to finance, operations, and business problems.
+
+I am learning via DataCamp, this GitHub documents my learning journey, practice projects, and experiments as I strengthen my technical foundation for future roles.
+
+📫 Reach me at arthurmartinsholanda@gmail.com!
