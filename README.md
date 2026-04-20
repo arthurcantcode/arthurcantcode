@@ -8,6 +8,6 @@ I’m currently building skills for data-driven roles, focusing on:
 - PostgreSQL for data querying and data usage
 - Applying data and logic to finance, operations, and business problems
 
-I am learning via DataCamp, this GitHub documents my learning journey: practice projects and experiments as I strengthen my technical foundation for future roles.
+I am learning via freeCodeCamp, this GitHub documents my learning journey: practice projects and experiments as I strengthen my technical foundation for future roles.
 
 📫 Reach me at **arthurmartinsholanda@gmail.com**
